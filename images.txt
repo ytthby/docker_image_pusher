@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 herberthe0229/iptv-sources
 jeessy/ddns-go
+evil0ctal/douyin_tiktok_download_api
