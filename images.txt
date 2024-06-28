@@ -7,3 +7,4 @@ xhofe/alist:latest
 herberthe0229/iptv-sources
 jeessy/ddns-go
 evil0ctal/douyin_tiktok_download_api
+portainer/portainer
