@@ -11,3 +11,4 @@ evil0ctal/douyin_tiktok_download_api
 portainer/portainer
 cym1102/nginxwebui
 --platform=linux/arm/v7 xhofe/alist
+--platform=linux/arm/v7 jeessy/ddns-go
