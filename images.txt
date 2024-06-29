@@ -10,3 +10,4 @@ evil0ctal/douyin_tiktok_download_api
 portainer/portainer
 cym1102/nginxwebui
 xiaoyaliu/alist
+xhofe/alist
