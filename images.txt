@@ -11,4 +11,4 @@ portainer/portainer
 cym1102/nginxwebui
 --platform=linux/arm/v7 xhofe/alist
 --platform=linux/arm/v7 jeessy/ddns-go
---platform=linux/arm/v7 cym1102/nginxwebui:4.1.8
+--platform=linux/arm/v7 cym1102/nginxwebui:4.1.4
