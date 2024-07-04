@@ -16,3 +16,4 @@ linuxserver/qbittorrent
 linuxserver/transmission
 linuxserver/emby
 linuxserver/jellyfin
+docker/compose
