@@ -1,9 +1,10 @@
 nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+xhofe/alist
+jellyfin/jellyfin
 herberthe0229/iptv-sources
 jeessy/ddns-go
 evil0ctal/douyin_tiktok_download_api
@@ -11,4 +12,3 @@ portainer/portainer
 cym1102/nginxwebui
 --platform=linux/arm/v7 xhofe/alist
 --platform=linux/arm/v7 jeessy/ddns-go
---platform=linux/arm/v7 cym1102/nginxwebui:4.1.4
