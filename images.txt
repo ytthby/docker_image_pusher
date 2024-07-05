@@ -14,6 +14,7 @@ cym1102/nginxwebui
 --platform=linux/arm/v7 jeessy/ddns-go
 --platform=linux/arm/v7 jc21/nginx-proxy-manager
 --platform=linux/arm/v7 portainer/portainer
+--platform=linux/arm/v7 linuxserver/jellyfin
 linuxserver/qbittorrent
 linuxserver/transmission
 linuxserver/emby
