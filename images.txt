@@ -17,3 +17,4 @@ linuxserver/transmission
 linuxserver/emby
 linuxserver/jellyfin
 docker/compose
+jc21/nginx-proxy-manager
