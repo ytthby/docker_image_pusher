@@ -12,6 +12,7 @@ portainer/portainer
 cym1102/nginxwebui
 --platform=linux/arm/v7 xhofe/alist
 --platform=linux/arm/v7 jeessy/ddns-go
+--platform=linux/arm/v7 jc21/nginx-proxy-manager
 linuxserver/qbittorrent
 linuxserver/transmission
 linuxserver/emby
