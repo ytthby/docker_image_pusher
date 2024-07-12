@@ -3,6 +3,11 @@ nginx
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm64 xhofe/alist
+--platform=linux/arm64 jeessy/ddns-go
+--platform=linux/arm64 portainer/portainer
+--platform=linux/arm64 jellyfin/jellyfin
+--platform=linux/arm64 jc21/nginx-proxy-manager
 xhofe/alist
 jellyfin/jellyfin
 herberthe0229/iptv-sources
