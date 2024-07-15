@@ -22,6 +22,8 @@ cym1102/nginxwebui
 --platform=linux/arm/v7 jc21/nginx-proxy-manager
 --platform=linux/arm/v7 portainer/portainer
 --platform=linux/arm/v7 jellyfin/jellyfin
+--platform=linux/arm/v7 linuxserver/emby
+--platform=linux/arm/v7 linuxserver/qbittorrent
 linuxserver/qbittorrent
 linuxserver/transmission
 linuxserver/emby
