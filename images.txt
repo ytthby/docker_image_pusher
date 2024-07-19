@@ -11,20 +11,18 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 --platform=linux/arm64 mtphotos/mt-photos
 --platform=linux/arm64 syncthing/syncthing
 --platform=linux/arm64 redis:6.2-alpine
---platform=linux/arm64 tensorchord/pgvecto-rs:pg14-v0.2.0
+--platform=linux/arm64 tensorchord/pgvecto-rs
 xhofe/alist
 jellyfin/jellyfin
 herberthe0229/iptv-sources
 jeessy/ddns-go
 evil0ctal/douyin_tiktok_download_api
 portainer/portainer
-cym1102/nginxwebui
 --platform=linux/arm/v7 xhofe/alist
 --platform=linux/arm/v7 jeessy/ddns-go
 --platform=linux/arm/v7 jc21/nginx-proxy-manager
 --platform=linux/arm/v7 portainer/portainer
 --platform=linux/arm/v7 jellyfin/jellyfin
---platform=linux/arm/v7 linuxserver/emby
 --platform=linux/arm/v7 linuxserver/qbittorrent
 linuxserver/qbittorrent
 linuxserver/transmission
