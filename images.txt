@@ -1,30 +1,24 @@
-nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64 xhofe/alist
 --platform=linux/arm64 jeessy/ddns-go
 --platform=linux/arm64 portainer/portainer
 --platform=linux/arm64 jellyfin/jellyfin
 --platform=linux/arm64 jc21/nginx-proxy-manager
 --platform=linux/arm64 syncthing/syncthing
-xhofe/alist
-jellyfin/jellyfin
+
 herberthe0229/iptv-sources
-jeessy/ddns-go
 evil0ctal/douyin_tiktok_download_api
-portainer/portainer
+
 --platform=linux/arm/v7 xhofe/alist
 --platform=linux/arm/v7 jeessy/ddns-go
 --platform=linux/arm/v7 jc21/nginx-proxy-manager
 --platform=linux/arm/v7 portainer/portainer
 --platform=linux/arm/v7 jellyfin/jellyfin
 --platform=linux/arm/v7 linuxserver/qbittorrent
---platform=linux/arm/v7 redis:6.2-alpine
+--platform=linux/arm/v7 redis
 --platform=linux/arm/v7 tensorchord/pgvecto-rs
 linuxserver/qbittorrent
 linuxserver/transmission
 linuxserver/emby
-linuxserver/jellyfin
-jc21/nginx-proxy-manager
