@@ -16,7 +16,6 @@ evil0ctal/douyin_tiktok_download_api
 --platform=linux/arm/v7 jc21/nginx-proxy-manager
 --platform=linux/arm/v7 portainer/portainer
 --platform=linux/arm/v7 jellyfin/jellyfin
---platform=linux/arm/v7 linuxserver/qbittorrent
 --platform=linux/arm/v7 redis
 --platform=linux/arm/v7 tensorchord/pgvecto-rs
 linuxserver/qbittorrent
