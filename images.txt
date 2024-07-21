@@ -7,6 +7,8 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 --platform=linux/arm64 jellyfin/jellyfin
 --platform=linux/arm64 jc21/nginx-proxy-manager
 --platform=linux/arm64 syncthing/syncthing
+--platform=linux/arm64 redis:6.2-alpine
+--platform=linux/arm64 tensorchord/pgvecto-rs:pg14-v0.2.0
 
 herberthe0229/iptv-sources
 evil0ctal/douyin_tiktok_download_api
@@ -17,7 +19,6 @@ evil0ctal/douyin_tiktok_download_api
 --platform=linux/arm/v7 portainer/portainer
 --platform=linux/arm/v7 jellyfin/jellyfin
 --platform=linux/arm/v7 redis
---platform=linux/arm/v7 tensorchord/pgvecto-rs
 linuxserver/qbittorrent
 linuxserver/transmission
 linuxserver/emby
