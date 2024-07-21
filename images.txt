@@ -9,8 +9,6 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 --platform=linux/arm64 jellyfin/jellyfin
 --platform=linux/arm64 jc21/nginx-proxy-manager
 --platform=linux/arm64 syncthing/syncthing
-redis:6.2-alpine
-tensorchord/pgvecto-rs
 xhofe/alist
 jellyfin/jellyfin
 herberthe0229/iptv-sources
@@ -23,6 +21,8 @@ portainer/portainer
 --platform=linux/arm/v7 portainer/portainer
 --platform=linux/arm/v7 jellyfin/jellyfin
 --platform=linux/arm/v7 linuxserver/qbittorrent
+--platform=linux/arm/v7 redis:6.2-alpine
+--platform=linux/arm/v7 tensorchord/pgvecto-rs
 linuxserver/qbittorrent
 linuxserver/transmission
 linuxserver/emby
