@@ -22,7 +22,7 @@ evil0ctal/douyin_tiktok_download_api
 --platform=linux/arm/v7 redis
 --platform=linux/arm/v7 whyour/qinglong
 --platform=linux/arm/v7 syncthing/syncthing
---platform=linux/arm/v7 homeassistant/home-assistant
+--platform=linux/arm/v7 homeassistant/home-assistant:latest
 linuxserver/qbittorrent
 linuxserver/transmission
 linuxserver/emby
