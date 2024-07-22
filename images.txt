@@ -9,6 +9,7 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 --platform=linux/arm64 syncthing/syncthing
 --platform=linux/arm64 redis:6.2-alpine
 --platform=linux/arm64 tensorchord/pgvecto-rs:pg14-v0.2.0
+--platform=linux/arm64 whyour/qinglong
 
 herberthe0229/iptv-sources
 evil0ctal/douyin_tiktok_download_api
