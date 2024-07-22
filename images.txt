@@ -20,6 +20,7 @@ evil0ctal/douyin_tiktok_download_api
 --platform=linux/arm/v7 portainer/portainer
 --platform=linux/arm/v7 jellyfin/jellyfin
 --platform=linux/arm/v7 redis
+--platform=linux/arm/v7 whyour/qinglong
 linuxserver/qbittorrent
 linuxserver/transmission
 linuxserver/emby
