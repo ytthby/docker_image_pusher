@@ -1,5 +1,8 @@
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+
+linuxserver/qbittorrent
+
 #支持指定架构
 --platform=linux/arm64 xhofe/alist
 --platform=linux/arm64 jeessy/ddns-go
@@ -23,6 +26,6 @@ evil0ctal/douyin_tiktok_download_api
 --platform=linux/arm/v7 whyour/qinglong
 --platform=linux/arm/v7 syncthing/syncthing
 --platform=linux/arm/v7 homeassistant/home-assistant:latest
-linuxserver/qbittorrent
+
 linuxserver/transmission
 linuxserver/emby
