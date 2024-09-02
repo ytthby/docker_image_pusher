@@ -15,6 +15,7 @@ linuxserver/qbittorrent
 --platform=linux/arm64 whyour/qinglong
 
 herberthe0229/iptv-sources
+
 evil0ctal/douyin_tiktok_download_api
 
 --platform=linux/arm/v7 xhofe/alist
