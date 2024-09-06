@@ -13,6 +13,7 @@ linuxserver/qbittorrent
 --platform=linux/arm64 redis:6.2-alpine
 --platform=linux/arm64 tensorchord/pgvecto-rs:pg14-v0.2.0
 --platform=linux/arm64 whyour/qinglong
+--platform=linux/arm64 onething1/wxedge
 
 herberthe0229/iptv-sources
 
